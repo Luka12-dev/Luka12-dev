@@ -1,4 +1,4 @@
-# 💻 Luka (Luka12-dev) – Cybersecurity & AI Developer
+# 💻 Luka (Luka12-dev) - Cybersecurity & AI Developer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luka12-dev\&theme=radical\&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luka12-dev\&theme=radical\&layout=compact)
@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-Hi! I'm **Luka**, a passionate cybersecurity enthusiast and aspiring **ethical hacker**, focused on privacy-first, offline-first development. I build tools and apps that emphasize security, speed, and transparency—without internet dependency. I'm actively exploring the intersection of **Red Teaming**, **AI**, and **low-level systems** development.
+Hi! I'm **Luka**, a passionate cybersecurity enthusiast and aspiring **ethical hacker**, focused on privacy-first, offline-first development. I build tools and apps that emphasize security, speed, and transparency-without internet dependency. I'm actively exploring the intersection of **Red Teaming**, **AI**, and **low-level systems** development.
 
 🔐 I primarily use:
 
@@ -75,7 +75,8 @@ Hi! I'm **Luka**, a passionate cybersecurity enthusiast and aspiring **ethical h
 ## 🔗 Let's Connect
 
 * GitHub: [github.com/Luka12-dev](https://github.com/Luka12-dev)
-* Portfolio/YT: *Coming Soon!*
+* YouTube: [@LukaCyber](https://www.youtube.com/@LukaCyber-s4b7o)
+* Freelance: [Fiverr - LukaTechDev](https://www.fiverr.com/lukatechdev/)
 
 > "Code hard. Hack ethically. Dream limitless."
 
