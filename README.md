@@ -1,30 +1,31 @@
-# 🔥 Luka (Luka12-dev)
-## Cybersecurity Researcher • AI Developer • Systems Architect
+<div align="center">
+  <img src="LukaCyber.png" alt="LukaCyber" width="240">
+</div>
+
+# Luka (Luka12-dev)
+**Cybersecurity Researcher • AI Developer • Systems Architect**
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luka12-dev&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luka12-dev&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Luka12-dev&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka12-dev&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages">
 </div>
 
 ---
 
-## 🎯 Vision
+## Vision
+Building the next generation of privacy-first, offline-first tools that place security and user sovereignty at the core. Specializing in red team operations, AI systems, low-level programming, and high-performance software that operates independently of the cloud.
 
-Building the next generation of **privacy-first, offline-first** tools that put security and user freedom at the core. I'm deep in the trenches of **Red Team operations**, **AI systems**, and **low-level programming**—creating software that's fast, transparent, and untethered from the cloud.
+Mission: Democratize cybersecurity knowledge and create powerful, transparent tools for ethical hackers, privacy advocates, and developers who prioritize freedom and security.
 
-My mission: Democratize cybersecurity knowledge and build tools that empower ethical hackers, privacy advocates, and developers who refuse to compromise on security.
-
-### 🛡️ Core Principles
-- **Privacy by Design** - Your data stays yours, always offline-capable
-- **Open Source First** - Transparency builds trust
-- **Performance Obsessed** - Native speed, minimal bloat
-- **Security Focused** - Built with threat models in mind
+## Core Principles
+- Privacy by Design – Data remains local and fully offline-capable  
+- Open Source First – Transparency builds lasting trust  
+- Performance Obsessed – Native speed with minimal overhead  
+- Security Focused – Designed against real-world threat models  
 
 ---
 
-## 💻 Tech Arsenal
+## Tech Arsenal
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,6 +33,8 @@ My mission: Democratize cybersecurity knowledge and build tools that empower eth
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/Assembly-0071C5?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -42,118 +45,71 @@ My mission: Democratize cybersecurity knowledge and build tools that empower eth
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌐 [LuxxerOS](https://github.com/Luka12-dev/LuxxerOS)
-**Virtual OS Powerhouse** • Python
+### [LuxxerOS](https://github.com/Luka12-dev/LuxxerOS)
+**Virtual Operating System** • Python / PyQt6  
+Lightweight virtual OS simulator featuring over 100 integrated tools spanning cybersecurity, productivity, development utilities, and a fully customizable macOS-inspired GUI with virtual filesystem and window management.
 
-A complete virtual operating system packed with 100+ integrated tools spanning cybersecurity suites, productivity apps, development utilities, and a fully customizable GUI. Think of it as a Swiss Army knife for developers and security researchers—all in one Python-powered ecosystem.
+### [ChatBOT](https://github.com/Luka12-dev/ChatBOT)
+**Offline AI Assistant** • Flutter / llama.cpp  
+Android application that runs large language models completely offline. Supports model switching, local conversation history, multi-language chats, and privacy-preserving inference with zero cloud dependency.
 
-`#VirtualOS` `#CyberSecurity` `#DevTools` `#Python`
+### [AI-VISTA](https://github.com/Luka12-dev/AI-VISTA)
+**AI Image Generation Studio** • PyQt / Stable Diffusion  
+Professional desktop-first AI art platform powered by Stable Diffusion and SDXL. Includes responsive web UI for LAN/mobile access, real-time image streaming, model management, LoRA support, and advanced prompt engineering.
 
----
+### [K3Y](https://github.com/Luka12-dev/K3Y)
+**Ethical Hash Auditor** • C++17  
+High-performance, multi-threaded framework for password security research and hash testing (MD5, SHA256). Provides detailed benchmarks and educational insights into cryptographic strength.
 
-### 🧠 [ChatBOT](https://github.com/Luka12-dev/ChatBOT)
-**Offline AI Assistant** • Flutter + llama.cpp
+### [Cyon](https://github.com/Luka12-dev/Cyon)
+**Systems Programming Language** • Compiler Development  
+Statically-typed systems language with Python-like syntax that compiles to native code via C. Features memory safety, reference counting, dynamic arrays, and cross-platform support.
 
-Run powerful large language models completely offline on your Android device. Zero cloud dependency, maximum privacy. Beautiful Material Design UI with switchable models, conversation history, and blazing-fast inference powered by llama.cpp's optimized runtime.
+### [RedScript](https://github.com/Luka12-dev/RedScript)
+**Rapid GUI Engine** • PyQt6  
+Fast GUI prototyping tool for security utilities and automation scripts. Enables creation of dynamic, interactive interfaces with real-time components and custom callbacks.
 
-`#LocalAI` `#Privacy` `#Flutter` `#LLM`
+### [SystemOptimizerPro](https://github.com/Luka12-dev/SystemOptimizerPro)
+**System Performance Monitor** • JavaFX  
+Intelligent real-time system optimizer with automatic RAM/CPU management, smart cache cleaning, and comprehensive performance analytics.
 
----
+### [Xengine](https://github.com/Luka12-dev/Xengine)
+**Game Engine** • C# / .NET 8.0  
+Modular, cross-platform game engine for 2D and 3D development. Includes component-based architecture, scene management, rendering, physics simulation, audio, input handling, UI framework, and networking.
 
-### 🎨 [AI-VISTA](https://github.com/Luka12-dev/AI-VISTA)
-**Desktop AI Art Studio** • PyQt + Stable Diffusion
+### [RO-DOS](https://github.com/Luka12-dev/RO-DOS)
+**Operating System** • x86 Assembly / C  
+32-bit protected mode hobby OS with custom bootloader, FAT12 filesystem, memory management, hardware abstraction, and over 100 DOS-style commands. Educational project bootable on real hardware and QEMU.
 
-Professional-grade image generation powered by Stable Diffusion and SDXL. Desktop-first design with web UI for LAN/mobile access, real-time image streaming, advanced prompt engineering, model management, and LoRA support. Create, iterate, and manage AI art with studio-quality tools.
-
-`#StableDiffusion` `#AIArt` `#PyQt` `#ImageGeneration`
-
----
-
-### 🔐 [K3Y](https://github.com/Luka12-dev/K3Y)
-**Ethical Hash Auditor** • Modern C++17
-
-High-performance hash testing framework for security research. Supports MD5/SHA256 with multi-threaded processing, comprehensive benchmark statistics, and educational insights into password security. Built for ethical security testing and cryptographic learning.
-
-`#Cryptography` `#Cpp17` `#Security` `#Performance`
-
----
-
-### ⚡ [Cyon](https://github.com/Luka12-dev/Cyon)
-**Modern Systems Language** • Compiler Development
-
-Statically-typed systems programming language with Python-like syntax compiling to native code via C. Memory-safe, cross-platform, with rich standard library. Reference counting, dynamic arrays, multi-stage compilation—native performance without the complexity.
-
-`#CompilerDesign` `#SystemsProgramming` `#LanguageDev` `#Performance`
+### [AquaDev](https://github.com/Luka12-dev/AquaDev)
+**Local AI Development Agent** • Python / Ollama  
+Fully private, offline AI coding assistant powered by Ollama. Supports file operations, real-time response streaming, granular permissions, and a clean terminal interface with no data leaving the machine.
 
 ---
-
-### 🛠️ [RedScript](https://github.com/Luka12-dev/RedScript)
-**Rapid GUI Engine** • PyQt6
-
-Lightning-fast GUI prototyping for security tools and automation scripts. Create dynamic interfaces with real-time labels, interactive buttons, and custom callbacks. Go from concept to working tool in minutes, not hours.
-
-`#Automation` `#PyQt6` `#Scripting` `#RapidDev`
-
----
-
-### ⚙️ [SystemOptimizerPro](https://github.com/Luka12-dev/SystemOptimizerPro)
-**Intelligent System Monitor** • JavaFX
-
-Auto-optimizing system performance tool with real-time RAM/CPU management, smart cache cleaning, and comprehensive performance analytics. Monitor, optimize, and maintain peak system performance with minimal overhead.
-
-`#SystemTools` `#JavaFX` `#Performance` `#Optimization`
-
----
-
-### 🎮 [CyberRunner](https://github.com/Luka12-dev/CyberRunner)
-**Lightweight Web Game** • HTML/CSS/JS + C++/Python
-
-Fast-paced browser game with hybrid optimization. HTML/CSS/JS frontend with Python and C++ backend for silky-smooth gameplay. Zero installation, maximum fun. Open `index.html` and you're in.
-
-`#GameDev` `#WebTech` `#HybridOptimization`
-
----
-
-## 📊 GitHub Metrics
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luka12-dev&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Luka12-dev&color=blueviolet&style=for-the-badge)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luka12-dev&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak">
+  <img src="https://komarev.com/ghpvc/?username=Luka12-dev&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </div>
 
 ---
 
-## 🌐 Let's Connect
-
+## Connect
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Luka12--dev-181717?style=for-the-badge&logo=github)](https://github.com/Luka12-dev)
-[![YouTube](https://img.shields.io/badge/YouTube-@LukaCyber-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@LukaCyber-s4b7o)
-[![Fiverr](https://img.shields.io/badge/Fiverr-LukaTechDev-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/lukatechdev/)
-
+  <a href="https://github.com/Luka12-dev"><img src="https://img.shields.io/badge/GitHub-Luka12--dev-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.youtube.com/@LukaCyber-s4b7o"><img src="https://img.shields.io/badge/YouTube-@LukaCyber-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <a href="https://www.fiverr.com/lukatechdev/"><img src="https://img.shields.io/badge/Fiverr-LukaTechDev-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Philosophy
-
-**"Build tools that free minds. Write code that respects privacy. Hack ethically, dream limitlessly."**
-
-*Pushing boundaries in cybersecurity, one commit at a time.*
-
+  <strong>Build tools that free minds. Write code that respects privacy. Hack ethically, dream limitlessly.</strong><br>
+  Pushing boundaries in cybersecurity, one commit at a time.
 </div>
 
----
-
 <div align="center">
-
-⭐️ **Open to collaborations** • 🔒 **Privacy advocate** • 🎯 **Ethical hacker in training**
-
+  Open to collaborations • Privacy advocate • Ethical hacker in training
 </div>
