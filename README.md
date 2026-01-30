@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 ## Vision
 Building the next generation of privacy-first, offline-first tools that place security and user sovereignty at the core. Specializing in red team operations, AI systems, low-level programming, and high-performance software that operates independently of the cloud.
 
@@ -46,7 +45,6 @@ Mission: Democratize cybersecurity knowledge and create powerful, transparent to
 ---
 
 ## Featured Projects
-
 ### [LuxxerOS](https://github.com/Luka12-dev/LuxxerOS)
 **Virtual Operating System** • Python / PyQt6  
 Lightweight virtual OS simulator featuring over 100 integrated tools spanning cybersecurity, productivity, development utilities, and a fully customizable macOS-inspired GUI with virtual filesystem and window management.
@@ -99,6 +97,7 @@ Fully private, offline AI coding assistant powered by Ollama. Supports file oper
 ## Connect
 <div align="center">
   <a href="https://github.com/Luka12-dev"><img src="https://img.shields.io/badge/GitHub-Luka12--dev-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://luka-portfolio-site.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.youtube.com/@LukaCyber-s4b7o"><img src="https://img.shields.io/badge/YouTube-@LukaCyber-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
   <a href="https://www.fiverr.com/lukatechdev/"><img src="https://img.shields.io/badge/Fiverr-LukaTechDev-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 </div>
